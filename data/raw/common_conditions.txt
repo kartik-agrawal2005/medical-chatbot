@@ -1,0 +1,76 @@
+COMMON MEDICAL CONDITIONS — REFERENCE GUIDE
+
+=== HYPERTENSION (HIGH BLOOD PRESSURE) ===
+
+Hypertension is a chronic medical condition in which the blood pressure in the arteries is persistently elevated. Blood pressure is expressed by two measurements: systolic (the pressure when the heart beats) and diastolic (the pressure when the heart is resting between beats). Normal blood pressure at rest is within the range of 100–140 mmHg systolic and 60–90 mmHg diastolic.
+
+Hypertension is classified as either primary (essential) hypertension or secondary hypertension. About 90–95% of cases are primary, defined as high blood pressure due to nonspecific lifestyle and genetic factors. Lifestyle factors that increase the risk include excess salt in the diet, excess body weight, smoking, and alcohol use. The remaining 5–10% of cases are categorized as secondary high blood pressure, defined as high blood pressure due to an identifiable cause, such as chronic kidney disease, narrowing of the kidney arteries, an endocrine disorder, or the use of birth control pills.
+
+Symptoms: Hypertension is generally a silent condition. Most people with hypertension have no symptoms. However, some people with high blood pressure may experience headaches, shortness of breath, dizziness, chest pain, heart palpitations, or nosebleeds. These symptoms are not specific and usually do not occur until hypertension has reached a severe or life-threatening stage.
+
+Diagnosis: Hypertension is diagnosed on the basis of a persistently high resting blood pressure. The American Heart Association recommends at least three resting measurements on at least two separate healthcare visits. Ambulatory blood pressure monitoring over a 12- to 24-hour period is the most accurate method for confirming the diagnosis.
+
+Treatment: Lifestyle modifications are recommended to reduce blood pressure including dietary changes (such as the DASH diet), physical exercise, and weight loss. If lifestyle changes are insufficient, blood pressure medications may be used. Up to three medications taken concurrently can control blood pressure in 90% of cases. Common drug classes include ACE inhibitors, angiotensin II receptor blockers (ARBs), thiazide diuretics, calcium channel blockers, and beta-blockers.
+
+
+=== TYPE 2 DIABETES MELLITUS ===
+
+Type 2 diabetes mellitus (T2DM) is a chronic metabolic disorder characterized by high blood sugar, insulin resistance, and relative lack of insulin production. Common symptoms include increased thirst (polydipsia), frequent urination (polyuria), unexplained weight loss, increased hunger (polyphagia), fatigue, and blurred vision. The condition typically develops gradually over years.
+
+Risk Factors: Obesity is the primary risk factor for developing type 2 diabetes. Other risk factors include physical inactivity, family history of diabetes, advancing age (especially after age 45), history of gestational diabetes, polycystic ovary syndrome, and certain ethnic backgrounds (African American, Hispanic/Latino, Native American, and Asian American populations have higher risk).
+
+Pathophysiology: In type 2 diabetes, the body's cells become resistant to the action of insulin. The pancreas initially compensates by producing more insulin, but over time, it cannot maintain the increased demand. This results in relative insulin deficiency and elevated blood glucose levels. Chronic hyperglycemia leads to damage of blood vessels and nerves throughout the body.
+
+Complications: Long-term complications of poorly controlled diabetes include cardiovascular disease (heart attack, stroke), diabetic nephropathy (kidney disease), diabetic retinopathy (eye disease potentially leading to blindness), diabetic neuropathy (nerve damage, especially in the feet and legs), and increased susceptibility to infections.
+
+Treatment: Management of type 2 diabetes involves a combination of lifestyle modifications, blood sugar monitoring, and medications. First-line pharmacological treatment is metformin, which decreases liver glucose production and increases insulin sensitivity. Other medications include sulfonylureas, thiazolidinediones, DPP-4 inhibitors, GLP-1 receptor agonists, SGLT2 inhibitors, and insulin therapy. The target HbA1c level for most adults is less than 7%.
+
+
+=== MIGRAINE ===
+
+A migraine is a primary headache disorder characterized by recurrent headaches that are moderate to severe. Typically, the headaches affect one half of the head, are pulsating in nature, and last from a few hours to three days. Associated symptoms may include nausea, vomiting, and sensitivity to light (photophobia), sound (phonophobia), or smell (osmophobia). The pain is generally made worse by physical activity.
+
+About one-third of people affected by migraines experience an aura: a transient visual, sensory, language, or motor disturbance which signals that the headache will soon occur. Common aura symptoms include visual phenomena (flashing lights, zigzag lines, temporary partial vision loss), tingling sensations on one side of the face or in an arm or leg, and difficulty speaking.
+
+Triggers: Common migraine triggers include hormonal changes in women (menstruation, pregnancy, menopause), hormonal medications (oral contraceptives), alcohol (especially wine), caffeinated beverages, stress, sensory stimuli (bright lights, strong smells), sleep changes, intense physical exertion, weather changes, certain foods (aged cheeses, salty foods, processed foods), and food additives (aspartame, MSG).
+
+Treatment — Acute: Treatment for acute migraine attacks aims to stop symptoms. Options include pain relievers (ibuprofen, aspirin, acetaminophen), triptans (sumatriptan, rizatriptan, which constrict blood vessels and block pain pathways), ergots (dihydroergotamine), anti-nausea medications, and the newer CGRP antagonists (ubrogepant, rimegepant). Treatment is most effective when taken early in the migraine attack.
+
+Treatment — Preventive: Preventive medications may be recommended if migraines are frequent (more than four per month), long-lasting, or severe. Options include beta-blockers (propranolol, metoprolol), tricyclic antidepressants (amitriptyline), anti-seizure drugs (valproate, topiramate), CGRP monoclonal antibodies (erenumab, fremanezumab, galcanezumab), and botulinum toxin type A (Botox) injections.
+
+
+=== ASTHMA ===
+
+Asthma is a chronic inflammatory disease of the airways characterized by variable and recurring symptoms of airflow obstruction and bronchospasm. Common symptoms include episodes of wheezing, coughing, chest tightness, and shortness of breath. These episodes may occur a few times a day or a few times per week. Depending on the person, asthma symptoms may become worse at night or with exercise.
+
+Pathophysiology: Asthma involves chronic airway inflammation, bronchial hyperresponsiveness, and reversible airflow obstruction. During an asthma attack, the muscles around the airways tighten (bronchospasm), the airway lining swells (inflammation), and excess mucus is produced, all of which narrow the airways and make breathing difficult.
+
+Diagnosis: Diagnosis is based on the pattern of symptoms, response to therapy over time, and spirometry (a lung function test). In spirometry, the key measurement is the forced expiratory volume in one second (FEV1) and its ratio to the forced vital capacity (FEV1/FVC). A ratio below 70% suggests obstructive airway disease. A positive bronchodilator reversibility test (improvement of FEV1 by ≥12% and ≥200 mL after inhaling a short-acting bronchodilator) confirms the diagnosis.
+
+Treatment: Asthma management follows a stepwise approach. Step 1 involves a short-acting beta-agonist (SABA) like albuterol for quick relief. Step 2 adds a low-dose inhaled corticosteroid (ICS) like budesonide or fluticasone. Step 3 increases to a medium-dose ICS or adds a long-acting beta-agonist (LABA) such as formoterol or salmeterol. Step 4 involves high-dose ICS/LABA combinations. Step 5 adds oral corticosteroids or biologic therapies (omalizumab for allergic asthma, mepolizumab for eosinophilic asthma).
+
+
+=== COMMON COLD AND INFLUENZA ===
+
+The common cold is a viral infectious disease of the upper respiratory tract that primarily affects the nose and throat. Symptoms usually include a runny nose, sneezing, sore throat, cough, mild headache, body aches, and sometimes fever. Symptoms typically peak at one to three days and resolve within seven to ten days, though some symptoms may last up to three weeks. Over 200 virus strains are implicated in causing the common cold, with rhinoviruses being the most common.
+
+Influenza (Flu): Influenza is a more severe respiratory infection caused by influenza viruses (types A and B). Unlike the common cold, influenza has a sudden onset and is characterized by high fever (100-104°F / 38-40°C), severe body aches, extreme fatigue, dry cough, and headache. Influenza can lead to serious complications including pneumonia, bronchitis, sinus infections, ear infections, and worsening of chronic conditions. High-risk groups include adults over 65, children under 5, pregnant women, and immunocompromised individuals.
+
+Prevention: Annual influenza vaccination is the most effective method for preventing influenza and its complications. The vaccine is recommended for everyone aged 6 months and older. Other preventive measures include frequent hand washing, avoiding close contact with sick individuals, covering coughs and sneezes, and disinfecting frequently touched surfaces.
+
+Treatment — Cold: There is no cure for the common cold. Treatment is symptomatic and supportive: rest, hydration, saline nasal spray, and over-the-counter medications (decongestants, antihistamines, pain relievers). Antibiotics are not effective against viral infections and should not be used for the common cold.
+
+Treatment — Influenza: Antiviral medications such as oseltamivir (Tamiflu) and zanamivir (Relenza) can reduce the severity and duration of influenza if started within 48 hours of symptom onset. These medications work by inhibiting the neuraminidase enzyme, preventing the release of new viral particles from infected cells.
+
+
+=== IRON DEFICIENCY ANEMIA ===
+
+Iron deficiency anemia is the most common type of anemia worldwide. It occurs when the body does not have enough iron to produce adequate amounts of hemoglobin, the protein in red blood cells that carries oxygen to the body's tissues.
+
+Symptoms: Symptoms develop gradually and may include fatigue, weakness, pale skin, shortness of breath, dizziness, cold hands and feet, brittle nails, headache, poor appetite (especially in children), unusual cravings for non-nutritive substances (pica) such as ice, dirt, or starch, and an inflamed or sore tongue (glossitis).
+
+Causes: Common causes include inadequate dietary iron intake, blood loss (heavy menstrual periods, gastrointestinal bleeding from ulcers or colorectal cancer, frequent blood donation), malabsorption (celiac disease, inflammatory bowel disease, gastric bypass surgery), and increased iron requirements (pregnancy, rapid growth in infancy and adolescence).
+
+Diagnosis: Diagnosis involves a complete blood count (CBC) showing low hemoglobin and low mean corpuscular volume (microcytic anemia), low serum ferritin (reflecting depleted iron stores), low serum iron, elevated total iron-binding capacity (TIBC), and low transferrin saturation. A peripheral blood smear may show hypochromic microcytic red blood cells.
+
+Treatment: Treatment involves oral iron supplementation (ferrous sulfate 325 mg two to three times daily) taken on an empty stomach with vitamin C to enhance absorption. Parenteral (IV) iron may be necessary if oral iron is not tolerated or not effective. Dietary modifications include increasing intake of iron-rich foods: red meat, poultry, fish, beans, lentils, tofu, dark leafy greens (spinach, kale), and iron-fortified cereals.
