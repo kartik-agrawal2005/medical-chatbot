@@ -18,6 +18,14 @@ Streamlit Concepts:
     - st.spinner:        Loading indicator while the agent is thinking.
 """
 
+import sys
+import os
+
+# Ensure project root is on Python path (needed when Streamlit runs from app/)
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+if PROJECT_ROOT not in sys.path:
+    sys.path.insert(0, PROJECT_ROOT)
+
 import streamlit as st
 
 from memory.schema import initialize_database
